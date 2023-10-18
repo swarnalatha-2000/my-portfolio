@@ -177,9 +177,9 @@ section {
   
 }
  .rounded-image {
-  border-radius: 50%; 
-  width: 350px; 
-  height: 350px; 
+  box-shadow: 5px 5px 10px #888888;
+  
+  
 } 
 .section__text {
   align-self: center;
